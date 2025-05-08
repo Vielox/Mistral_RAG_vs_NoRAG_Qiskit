@@ -5,7 +5,7 @@ from RAG.build_LLM import *
 from huggingface_hub import login
 
 
-login("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")
+login("")
 qiskit_urls = [
     "https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.QuantumCircuit",
     "https://docs.quantum.ibm.com/api/qiskit/qiskit.circuit.Instruction",
